@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1169
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp-get-pid-by-name", "csharp-get-pid-by-name.csproj", "{D08E8FE0-6EA5-42BD-AC2E-951CDFF84C27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D08E8FE0-6EA5-42BD-AC2E-951CDFF84C27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D08E8FE0-6EA5-42BD-AC2E-951CDFF84C27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D08E8FE0-6EA5-42BD-AC2E-951CDFF84C27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D08E8FE0-6EA5-42BD-AC2E-951CDFF84C27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1166CE7-B134-4487-9A71-BE0FB2B30CFE}
+	EndGlobalSection
+EndGlobal
